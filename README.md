@@ -1,4 +1,4 @@
-<h1 align="center">HI a im Siverslayer</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&background=FFDBDB00&random=false&width=435&lines=Siverslayer+%F0%9F%92%80)](https://git.io/typing-svg)
 <h3 align="center">App and website maker interested in PS3 and discovering vulnerabilities</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siverslayer" alt="siverslayer" /></a> </p>
