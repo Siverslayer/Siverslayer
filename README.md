@@ -1,8 +1,6 @@
 <h1 align="center">HI a im Siverslayer</h1>
 <h3 align="center">App and website maker interested in PS3 and discovering vulnerabilities</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siverslayer" alt="siverslayer" /></a> </p>
-
 - My first project for ps3 [PS3-GAME-AR-WEB](https://github.com/Siverslayer/PS3-GAME-AR-WEB)
 
 - It was a nice project [Network Scanner](https://github.com/Siverslayer/Network-Scanner/tree/main)
