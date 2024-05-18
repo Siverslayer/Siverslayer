@@ -1,12 +1,20 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&background=FFDBDB00&random=false&width=435&lines=Siverslayer+%F0%9F%92%80)](https://git.io/typing-svg)
+# 💫 About Me:
+My name is Siverslayer
+i love coding
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&background=FFDBDB00&random=false&width=435&lines=App+and+website+maker+interested+in+;PS3+and+discovering+vulnerabilities)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=21&pause=1000&color=8ECCFF&background=FFDBDB00&random=false&width=435&lines=Programming+language)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=21&pause=1000&color=FFFFFF&background=FFDBDB00&random=false&width=435&lines=CPP;C;Python;+HTML%2FCSS%2FJavaScript)](https://git.io/typing-svg)
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Siverslayer&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Siverslayer&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Siverslayer&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=siverslayer&theme=dark)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Siverslayer&theme=dark&hide_border=true&border_radius=2.6&locale=ar)](https://git.io/streak-stats)
+---
+[![](https://visitcount.itsvg.in/api?id=Siverslayer&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 - [Skip-shutdown-PS3](https://github.com/Siverslayer/Skip-shutdown-PS3)
 - [PS3-GAME-AR-WEB](https://github.com/Siverslayer/PS3-GAME-AR-WEB)
