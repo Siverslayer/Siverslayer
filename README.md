@@ -13,10 +13,6 @@ i love coding
 ![](https://github-profile-trophy.vercel.app/?username=Siverslayer&theme=dark&no-frame=true&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Siverslayer&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-
 - [Skip-shutdown-PS3](https://github.com/Siverslayer/Skip-shutdown-PS3)
 - [PS3-GAME-AR-WEB](https://github.com/Siverslayer/PS3-GAME-AR-WEB)
 - [reverse_backdoor-cpp-](https://github.com/Siverslayer/reverse_backdoor-cpp-)
